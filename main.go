@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	vkapi "./golang-vk-api"
+	vkapi "github.com/BelodedAleksey/VK/api"
 )
 
 func main() {
